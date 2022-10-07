@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+    color:white;
+    background-color:#109DEA;
+    gap: 2rem;
+    height: 50px;
+}
+
+a{
+    color:white;
+}
+
+body{
+    padding:0px;
+    margin:0px;
+    background-color: #04234E;
+}
